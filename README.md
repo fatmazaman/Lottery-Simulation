@@ -8,6 +8,7 @@ Here’s the catch, you will need to make sure there are no duplicate numbers (e
 _implementation_
 
 __Lottery Generator :__ Generate 6 random numbers between 1 to 49.
+ `random.nextInt((max-min)+1)min;`
 
 __Lottery Picker :__ list your lottery number to match with lottery numbers
 
